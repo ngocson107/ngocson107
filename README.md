@@ -1,3 +1,4 @@
+<img src="https:// https://www.vietnamworks.com/hrinsider/wp-content/uploads/2023/12/nha-minh-co-2-em-cun-mot-em-mau-trang-mot-em-mau-vang-1.jpg"/>
 # Kiều Ngọc Sơn
 👋 Hi, I'm Kiều Ngọc Sơn!
 - 🎓 22 years old
