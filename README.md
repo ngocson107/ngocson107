@@ -16,7 +16,7 @@ I am a student learning Selenium WebDriver and its applications in web testing.
 ## Skill
  - **Programming language:** Java,
  - **Web technology:** Selenium WebDriver
- - **Tools:** Git
+ - **Tools:** Postman, Git
 ## Contact
 Please contact me:
 - **Email:** [knson.c3.nth@gmail.com.com]
