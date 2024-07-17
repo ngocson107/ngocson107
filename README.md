@@ -1,4 +1,3 @@
-<img src="https:// https://www.vietnamworks.com/hrinsider/wp-content/uploads/2023/12/nha-minh-co-2-em-cun-mot-em-mau-trang-mot-em-mau-vang-1.jpg"/>
 # Kiều Ngọc Sơn
 👋 Hi, I'm Kiều Ngọc Sơn!
 - 🎓 22 years old
@@ -22,4 +21,3 @@ I am a student learning Selenium WebDriver and its applications in web testing.
 Please contact me:
 - **Email:** [knson.c3.nth@gmail.com.com]
 - **LinkedIn:** [www.linkedin.com/in/nqs070602]
-<img src="https:// https://www.vietnamworks.com/hrinsider/wp-content/uploads/2023/12/nha-minh-co-2-em-cun-mot-em-mau-trang-mot-em-mau-vang-1.jpg"/>
